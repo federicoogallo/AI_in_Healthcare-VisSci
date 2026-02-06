@@ -1,4 +1,4 @@
-# AI in Healthcare – Progetto di Visualizzazione
+# AI in Healthcare – Progetto di Visualizzazione Scientifica
 
 Progetto di Data Visualization che esplora l'impatto dell'Intelligenza Artificiale nel settore sanitario, dalle tendenze occupazionali alle applicazioni cliniche, fino ai bias nei modelli diagnostici.
 
