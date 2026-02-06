@@ -8,6 +8,8 @@ Progetto di Data Visualization che esplora l'impatto dell'Intelligenza Artificia
 ├── Dataset/            # Dataset utilizzati (compressi in .zip)
 ├── Images/             # Grafici esportati dai notebook
 ├── Notebooks/          # Jupyter Notebook con codice e visualizzazioni
+├── AI&Healthcare.pdf   # Presentazione (PDF)
+├── AI&Healthcare.pptx  # Presentazione (PowerPoint)
 └── README.md
 ```
 
@@ -28,3 +30,8 @@ Progetto di Data Visualization che esplora l'impatto dell'Intelligenza Artificia
 
 - Python 3, Pandas, Matplotlib, Seaborn, Plotly
 - Jupyter Notebook
+
+## Autori
+
+- **Federico Gallo** – 44862A
+- **Manuel Ianniello** – 31544A
